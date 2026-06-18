@@ -1,4 +1,4 @@
-module hexlet-go
+module github.com/Miki-Gazdiev/hexlet-go
 
 go 1.26.2
 
